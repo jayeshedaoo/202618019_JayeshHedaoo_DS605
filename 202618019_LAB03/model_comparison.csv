@@ -1,0 +1,5 @@
+,Training Accuracy,Testing Accuracy,Precision,Recall,F1-Score
+Logistic Regression + Pipeline A,0.819,0.8166,0.8081,0.662,0.7278
+Logistic Regression + Pipeline B,0.8154,0.8115,0.8021,0.652,0.7193
+Decision Tree + Pipeline A,0.9962,0.8563,0.8022,0.8123,0.8072
+Decision Tree + Pipeline B,0.9962,0.8561,0.8017,0.8124,0.807
