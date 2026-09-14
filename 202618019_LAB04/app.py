@@ -8,8 +8,14 @@ import joblib
 # Load trained model
 # --------------------------------------------------
 
-model = joblib.load("airbnb_price_model.pkl")
+import os
 
+model_path = os.path.join(
+    os.path.dirname(__file__),
+    "airbnb_price_model.pkl"
+)
+
+model = joblib.load(model_path)
 
 # --------------------------------------------------
 # Page configuration
