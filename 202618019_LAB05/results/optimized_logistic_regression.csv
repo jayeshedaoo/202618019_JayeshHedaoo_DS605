@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1,Training Time,Prediction Time,Learning Rate,Epochs
+Optimized From-Scratch Logistic Regression,0.7416666666666667,0.7751196172248804,0.9152542372881356,0.8393782383419689,0.0696036000008462,0.00018390000332146883,0.05,1000
