@@ -1,0 +1,6 @@
+Method,Accuracy (%)
+Nearest Neighbor - Raw Pixels,99.16666666666667
+Nearest Neighbor - PCA,96.66666666666667
+SVM - PCA,95.0
+KNN - PCA,94.16666666666667
+Logistic Regression - PCA,92.5
